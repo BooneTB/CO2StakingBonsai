@@ -1,0 +1,18 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Papa Maple Tree - CO2 Staking Bonsai"
+        },
+        "description": {
+            "type": "string",
+            "description": "A grove of 100 year old maple trees located at GEO-LOCATION"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://opensea.io/collection/co2-staking-bonsai/NFTfilename"
+        }
+    }
+}
