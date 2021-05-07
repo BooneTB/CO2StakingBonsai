@@ -1,0 +1,39 @@
+{
+    "ERC721-greenNFT": {
+      "CarbonBONDtemplate": {
+        "Id": {
+          "Owner": "BOND Creator",
+          "Issuer": "Token Creator",
+          "Asset-Id": "The serial number or unique identifier of the referenced credit on the standard registry that the token represents",
+          "Issuance-Date": "Refers to the date of issuance usually in the DD/MM/YYYY or MM/DD/YYYY",
+          "Generation-Type": "Verified historical results or a predicted result",
+          "Verification-Standard": "VCS, GS, etc.",
+          "Additionality": "A score for the principle that a project activity is additional if the resulting emission reductions are lower than what would have happened in the absence of the activity",
+          "Leakage": "A decrease in sequestration or an increase in emissions outside the boundaries of project, program activities resulting from project, and/or program implementation. Leakage may be caused by shifting of the activities of people present in the project area or by market effects whereby emission reductions are countered by emissions created by shifts in supply of and demand for the products and services affected by the project.",
+          "Reference-to-Project-Module-Claim": "A compound reference to the full id path for the benefit claim data: projectId/modularBenefitProjectId/claimId.",
+          "Date-Range": "The verified time period of the benefit claim"
+        }, 
+        "CoreCarbonAttributes": {
+            "Classification": {
+                "Category": "Reduction | Removal",
+                "Method": "Nature | Technology"
+              }, 
+            "Vintage": "Refers to the year that the emissions reduction or ecological benefit took place",
+            "Storage": "Biological | Geological",
+            "Durability": "The term in years of how long the CO2 will be removed from the atmosphere, compared with the risk of CO2 reversion to the atmosphere before that term elapses. Permanence risk, short term (up to 100 years), medium term (100 to 1,000 years), and long term (more than 1,000 years)",
+            "Clear-Removals": [ 
+                "N2O: <=0",
+                "CH4: <=0"
+              ],
+            "Co-benefits": [
+                "One or more options from a list of the added benefits we get above and beyond the direct benefits of a more stable climate",
+                "co-benefit",
+                "co-benefit"
+              ],
+            "Paris-Agreement-Compliance": [
+                "Corresponding Adjustment"
+              ]
+          } 
+      }
+    }
+  }
